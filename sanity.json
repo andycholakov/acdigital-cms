@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "3tbhhq5c",
+    "dataset": "production"
+  },
   "project": {
     "name": "acdigital-cms"
-  },
-  "api": {
-    "projectId": "yq8thtvx",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
